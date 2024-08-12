@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect } from "react";
-import { loadGraph } from "../../loadGraph/loadGraph";
+import { loadGraph } from "../components/loadGraph/loadGraph";
 
 export default function Home() {
   useEffect(() => {
