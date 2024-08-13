@@ -1,11 +1,11 @@
 "use client";
 
 import { useEffect } from "react";
-import { loadGraph } from "../components/loadGraph/loadGraph";
+// import { loadGraph } from "../components/loadGraph/loadGraph";
 
 export default function Home() {
   useEffect(() => {
-    loadGraph();
+    // loadGraph();
   }, []);
 
   return (

@@ -28,6 +28,6 @@
     "**/*.tsx",
     ".next/types/**/*.ts",
     "src/app/page.tsx"
-  ],
+, "lib/neo4j.js"  ],
   "exclude": ["node_modules"]
 }
